@@ -17,7 +17,7 @@ export default function Usuario(){
     }    
     return (      
         <Painel side={side()}>
-            <Form></Form>
+            <Form>teste</Form>
         </Painel>       
     )
 
